@@ -251,7 +251,7 @@ PreprocessedFrameItem create_preprocessed_frame_item(const cv::Mat &frame,
                                                             uint32_t width,
                                                             uint32_t height)
 {
-    PreprocessedFrameItem item;
+    static PreprocessedFrameItem item;
     item.org_frame = frame.clone(); 
     cv::resize(frame, item.resized_for_infer, cv::Size(width, height));
     return item;

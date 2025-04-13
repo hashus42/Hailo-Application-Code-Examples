@@ -1,0 +1,3 @@
+/home/alquds/code/Hailo-Application-Code-Examples/runtime/cpp/object_detection/build/CMakeFiles/obj_det.dir
+/home/alquds/code/Hailo-Application-Code-Examples/runtime/cpp/object_detection/build/CMakeFiles/edit_cache.dir
+/home/alquds/code/Hailo-Application-Code-Examples/runtime/cpp/object_detection/build/CMakeFiles/rebuild_cache.dir
