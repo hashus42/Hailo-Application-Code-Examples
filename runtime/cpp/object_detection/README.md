@@ -3,8 +3,6 @@ Object Detection
 This example performs object detection using a Hailo8 device.
 It receives a HEF and images/video/camera as input, and returns the image\video with annotations of detected objects and bounding boxes.
 
-![output example](./obj_det.gif)
-
 Requirements
 ------------
 

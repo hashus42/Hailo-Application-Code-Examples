@@ -1,0 +1,3 @@
+/home/alquds/code/Hailo-Application-Code-Examples/runtime/cpp/semantic_segmentation/build/CMakeFiles/segmentation_example_cpp.dir
+/home/alquds/code/Hailo-Application-Code-Examples/runtime/cpp/semantic_segmentation/build/CMakeFiles/edit_cache.dir
+/home/alquds/code/Hailo-Application-Code-Examples/runtime/cpp/semantic_segmentation/build/CMakeFiles/rebuild_cache.dir

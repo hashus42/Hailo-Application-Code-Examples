@@ -1,0 +1,7 @@
+[2025-04-13 14:23:15.696] [237143] [HailoRT] [info] [device.cpp:49] [Device] OS Version: Linux 6.12.20+rpt-rpi-2712 #1 SMP PREEMPT Debian 1:6.12.20-1+rpt1~bpo12+1 (2025-03-19) aarch64
+[2025-04-13 14:23:15.698] [237143] [HailoRT] [info] [control.cpp:108] [control__parse_identify_results] firmware_version is: 4.20.0
+[2025-04-13 14:23:15.698] [237143] [HailoRT] [error] [file_utils.cpp:40] [read_binary_file] CHECK failed - Error opening file fcn16_resnet_v1_18.hef
+[2025-04-13 14:23:15.699] [237143] [HailoRT] [error] [hef.cpp:525] [parse_hef_file] CHECK_SUCCESS failed with status=HAILO_OPEN_FILE_FAILURE(13)
+[2025-04-13 14:23:15.699] [237143] [HailoRT] [error] [hef.cpp:1002] [Impl] Failed parsing HEF file
+[2025-04-13 14:23:15.699] [237143] [HailoRT] [error] [hef.cpp:314] [create] Failed creating HEF
+[2025-04-13 14:23:15.699] [237143] [HailoRT] [error] [hef.cpp:170] [create] CHECK_SUCCESS failed with status=HAILO_OPEN_FILE_FAILURE(13)
